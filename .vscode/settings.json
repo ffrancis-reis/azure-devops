@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": ".azure-devops\\Scripts\\python.exe",
+  "python.formatting.provider": "autopep8"
+}
